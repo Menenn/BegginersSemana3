@@ -1,0 +1,39 @@
+.dark-mode {
+    background: rgb(19, 18, 18);
+    color: white;
+}
+
+.dark-mode header{
+    border-bottom: 2px solid rgb(19, 18, 18);
+    background-color: rgb(70, 68, 68);
+    color: white;
+}
+
+.dark-mode header #blitzmail {
+    color: white;
+}
+
+.dark-mode header #blitzimages {
+    color: white;
+}
+
+.dark-mode header #blitzmail:hover{
+    color: black;
+}
+
+.dark-mode header #blitzimages:hover{
+    color: black;
+}
+
+.dark-mode section #div02 input{
+    background-color: rgb(19, 18, 18);
+    color: white;
+}
+
+.dark-mode footer {
+    background-color: rgb(70, 68, 68);
+}
+
+#divpesquisa div img{
+    background-color: rgb(70, 68, 68);
+}
